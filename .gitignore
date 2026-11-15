@@ -1,0 +1,63 @@
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local environments and editors
+.venv/
+venv/
+env/
+.conda/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local credentials and overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.local.json
+
+# Build and package output
+build/
+dist/
+*.egg-info/
+*.zip
+*.tar
+*.tar.gz
+
+# Datasets, prepared caches, checkpoints, and run output
+data/
+datasets/
+cache/
+caches/
+mmap/
+runs/
+outputs/
+results/
+checkpoints/
+pretrain/
+finetune/
+evaluate/
+wandb/
+lightning_logs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.tif
+*.tiff
+*.log
+metrics.jsonl

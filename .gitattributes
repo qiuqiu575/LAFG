@@ -1,0 +1,9 @@
+# Preserve archive bytes, including existing source line endings, on checkout.
+# This keeps the SHA-256 manifest valid across Windows and Linux Git clients.
+* -text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.zip binary

@@ -1,0 +1,22 @@
+{
+  "backbone.py": {
+    "source": "lunar_fusion/backbone.py",
+    "sha256": "34f5749bbd0c542011f0027d327a6967278a133ce5bc934827f9a675af737299",
+    "copied_without_changes": true
+  },
+  "branch_mora.py": {
+    "source": "lunar_fusion/branch_mora.py",
+    "sha256": "768196973da1bb59974f7bf66008c203a0bd75969d11b3b984cefb2a315ab370",
+    "copied_without_changes": true
+  },
+  "model.py": {
+    "source": "lunar_fusion/model.py",
+    "sha256": "d149a41172b4cbd45429e3e9a77d28dbb9cb3362c2b50e4729d370135b0be4c6",
+    "copied_without_changes": true
+  },
+  "group_dropout.py": {
+    "source": "lunar_fusion/group_dropout.py",
+    "sha256": "57bf85d8a3c879f49567488ff847a735896d896e1007c63424e50bfbf8aff301",
+    "copied_without_changes": true
+  }
+}
